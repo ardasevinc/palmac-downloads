@@ -5,7 +5,7 @@ macOS toolbox for Turkish lawyers and electronic-signature users.
 
 Source development is private. No public release is available yet.
 
-Update feed: https://ardasevinc.github.io/palmac-downloads/appcast.xml
+Update feed: https://raw.githubusercontent.com/ardasevinc/palmac-downloads/main/appcast.xml
 
 Release archives will be published under GitHub Releases. Update archives and
 metadata are signed; publishing a file here does not establish real-card or
