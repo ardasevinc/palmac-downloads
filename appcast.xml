@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Palmac</title>
+        <item>
+            <title>0.1.23</title>
+            <pubDate>Mon, 09 Nov 2026 22:00:09 +0300</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Palmac 0.1.23</h2><p>Improved saving of recovery files in UHAP and OCAS. Signed in-app updates tested on macOS 26 and 27.</p><p>UHAP ve OCAS kurtarma dosyalarının kaydedilmesi iyileştirildi. Uygulama içi imzalı güncellemeler macOS 26 ve 27 üzerinde denendi.</p><p>Supervised preview. Real-card activation and portal signing still require testing with the owner. / Gözetimli önizleme. Gerçek kartla aktivasyon ve portal imzalama, kart sahibiyle birlikte ayrıca denenmelidir.</p>]]></description>
+            <enclosure url="https://github.com/ardasevinc/palmac-downloads/releases/download/v0.1.23/Palmac-0.1.23-27-arm64.dmg" length="18663877" type="application/octet-stream" sparkle:edSignature="+ouVNCfRf9EMHUnEsPQT78TTza5jTwwxAKyCMujNRnkoEkVemiBf1CkANAwBSpNnm98ScTW9Ao6Fiu0RCIMKCw=="/>
+        </item>
+        <item>
+            <title>0.1.21</title>
+            <pubDate>Mon, 09 Nov 2026 16:57:06 +0300</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Palmac</h2><p>Native document and electronic-signature tools for macOS.</p><p>Yerel belge ve elektronik imza araçları. Önizleme sürümü.</p>]]></description>
+            <enclosure url="https://github.com/ardasevinc/palmac-downloads/releases/download/v0.1.21/Palmac-0.1.21-25-arm64.dmg" length="18665132" type="application/octet-stream" sparkle:edSignature="4yJfStgDBeM1vSK8CY82XgEwYSohIclTVAiDqJZeTPAc7IovM3NEpxxpGemDADdw7nCUxMGHQYVTtYmXNaw1AQ=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: XFCOv+NsE2wT3LC/UVSq4BA0OMl76Ox0ZipcJv4bpXhmT3IipeDhDSl9Nk028iOG7Yz8zkBfW1YemPGyBWsEDA==
+length: 2581
+-->
